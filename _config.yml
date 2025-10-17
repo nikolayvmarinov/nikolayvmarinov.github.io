@@ -1,10 +1,10 @@
 title: Nikolay Marinov
-email: your.email@example.com
+email: nikolay.marinov@gu.se
 description: "Political Scientist | Democracy, Elections, Foreign Interventions"
 baseurl: "" # leave blank for GitHub Pages
 url: "https://nikolayvmarinov.github.io"
 
-theme: academicpages
+remote_theme: pkumar/academicpages
 
 # Google Scholar, social links
 author:
@@ -20,3 +20,10 @@ author:
       url: "https://bsky.app/profile/professorniki.bsky.social"
     - name: "YouTube"
       url: "https://www.youtube.com/channel/UCr7Z7R7fGxRBWRDThcY1KQA"
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
