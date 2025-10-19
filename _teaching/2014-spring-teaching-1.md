@@ -1,20 +1,78 @@
 ---
-title: "Teaching experience 1"
+title: "Supervising"
 collection: teaching
-type: "Undergraduate course"
+type: "Workshop"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Gothenburg University"
+date: 2025-01-01
+location: "Gothenburg, Sweden"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A description of my approach to supervision
 
-Heading 1
+I am always happy to supervise
 ======
 
-Heading 2
+Supervision is one of the most rewarding parts of academic life. I enjoy helping students develop their ideas and see them take shape.
+
+
+Bring me a puzzle
 ======
 
-Heading 3
+The key is for you to bring me a **puzzle** — a case in which something happened in one way, and a case in which something happened differently.  
+The question we will work on is *why*. Once we have that, we can move forward.
+
+Finding your puzzle
 ======
+
+When students first come to me, they seldom already have a puzzle as defined above.  
+That is no problem. I agree to work with you *provisionally* on locating one — a process that I assist with and that typically works quite well.
+
+Topic approval and focus
+======
+
+Students sometimes misinterpret the process. They come with a topic and a method already approved as part of another course. They believe they are all set to go because it is approved.
+
+My observation is that the topic, as brought to me, seldom really works.  
+The right way to think about the approval, if you ask me, is this: **you have made good progress, and we will now continue that**.
+
+I will help you sharpen your focus. It is not that I prefer some topics over others — I simply advise which topics can work and which may be difficult to pull off.  
+The final choice is entirely yours.
+
+Methods
+======
+
+Students are often concerned with method. Some insist on naming their method or using something that sounds fancy. It is my responsibility to ensure that you write using a method that is up to the task and meets our requirements — as a university and as a discipline.  
+
+Methods are tools, a means to an end. I will help you work with the method that works best, whether or not it bears your preferred name.
+
+If the question of method is very important to you, I can recommend readings that allow you to cover this angle extensively in your work.
+
+Feedback and meetings
+======
+
+When we work together, I read your writing carefully and offer **extensive, paragraph-by-paragraph comments**. When we meet, I expect you to tell me how you plan to address these comments — and if not, why not.  
+
+This helps me continue to understand your project and remain confident that it will meet its objectives.
+
+It does not work well for me to send you detailed comments and then receive the same version of the paper next time. If you do not plan to incorporate suggestions, we should discuss your reasons and reach a shared understanding of how to go forward. You will make progress, the question is what is the best way for me to contribute to your progress.
+
+
+The spirit of supervision
+======
+
+I view supervision as a **pedagogical process** in which I help you be creative and productive.  While the university compensates me with “hours,” I do not do it for the hours. I do it for the privilege of being part of the **evolution of ideas — your ideas**.
+
+That is the best compensation for people of ideas.
+
+This also means that I do not view myself as a consultant to whom you simply show your work. Rather, I see myself as your partner in a two-way conversation about how your project is evolving and why.
+
+If I feel that I am not supervising — that I am not helping you write good work — then we can discuss reassignment so that you can attain the highest potential value for your project, in the way you see it.
+
+Meetings
+======
+
+We will agree on a meeting rhythm that fits your project — typically every other week. Regularity helps, but remember that this is not a linear process.
+
+You may make little progress at first, then a lot in later weeks.  
+That is normal. What matters is consistent effort and continued engagement.

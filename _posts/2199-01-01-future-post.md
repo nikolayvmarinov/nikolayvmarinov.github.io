@@ -1,11 +1,18 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'AI for Surveys'
+date: 2025-12-05
+permalink: /posts/2025/12/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - techupatgu
+  - surveys
+  - AI
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Another talk in the Tech Up at GU series! Please come!
+
+Using GenAI for Survey Research
+======
+ 
+Dec 5 2025 - Erica Metheney and Lauren Yehle 
+
+------

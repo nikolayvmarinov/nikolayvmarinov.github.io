@@ -1,20 +1,33 @@
 ---
-title: "Teaching experience 2"
+title: "Pointers on Writing"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Gothenburg University"
+date: 2025-01-01
+location: "Gothenburg, Sweden"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+These are some ideas on how to write
 
-Heading 1
+Theory and empirics
 ======
 
-Heading 2
+Students sometimes begin with so much theory that they cannot think empirically.  
+Once we start working empirically, the project may change — that is not a problem. It is part of the process.
+
+More or less
 ======
 
-Heading 3
+Writing more is generally **not** better than writing less.  
+Adding paragraphs often makes the good ideas harder to find.  
+Conciseness and clarity are your allies.
+
+Structure and progress
 ======
+
+We should have some structure to the process — for example, you write new material, and we meet regularly. But this is not an accounting exercise. You will not complete *N/M* of the project after *N* of *M* weeks.
+
+Ideas, luck, and inspiration will play their part.  
+
+Keep working, and I will help make sure it all checks out in the end.

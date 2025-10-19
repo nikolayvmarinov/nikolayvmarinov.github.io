@@ -2,7 +2,7 @@
 permalink: /
 title: "About"
 author_profile: true
-image: /assets/images/NicholasMarinov.jpg
+image: /assets/images/profile.png
 redirect_from: 
   - /about/
   - /about.html
@@ -13,4 +13,5 @@ I am a political scientist studying how international and domestic forces shape 
 Before joining the University of Gothenburg, I held positions at the University of Houston, the University of Mannheim, and Yale University. My research has appeared in journals such as The American Journal of Political Science, The Journal of Politics, Comparative Political Studies, and International Organization.
 
 At Gothenburg, I teach democratization, institutional development, and data science, and I coordinate initiatives that connect political science with data science. I am a public intellectual in my home town Varna.
+
 
