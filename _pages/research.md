@@ -18,16 +18,16 @@ image: /images/research.png
   * whether individual sanctions cause elite defections in autocratic regimes
 
 
-## How the outside world changes democracy 
+## Interest in how the outside world changes democracy 
 
 * Sanctions are one way to influence others, and building democracy abroad is an overriding interest of Western Powers. I want to know: 
   * whether foreign pressure reverses coups,
   * whether intervenining in other countries' elections works, 
-  * whether mass moblization no longer leads to democracy beause of dwindling outside support  
+  * whether mass moblization no longer leads to democracy because of dwindling outside support
 
 ##  New data to study democracy
 
-* To get to the role of the international community in spreading liberalization, new data collections are needed. I have spear-headed efforts to collect data on:  
+* To get to the role of the international community in spreading liberalization, new data collections are needed. I have spearheaded efforts to collect data on:  
   * all elections around the world, regardless of their democratic quality,
   * how states intervene in elections, 
   * how international factors affect protests 
