@@ -25,7 +25,7 @@ Work experience
 * University of Houston
   * 2018–2023, Professor, Department of Political Science
 * University of Mannheim
-  * 2013–2028, Professor, Chair for Empirical Democracy Research
+  * 2013–2018, Professor, Chair for Empirical Democracy Research
 * Yale
   * 2005–2013: Assistant Professor, Department of Political Science
     
