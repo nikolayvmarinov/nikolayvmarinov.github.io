@@ -8,6 +8,7 @@ image: /images/research.png
 {% include base_path %}
 {% include toc %}
 
+![Research](/images/research.png)
 
 ## Dissertation on sanctions
 
@@ -44,3 +45,4 @@ image: /images/research.png
 * Authoritarian regimes are fascinating. I want to know:  
   * why they spread conspiracy theories,
   * why they sometimes stage show trials and sometimes deploy blackouts in the aftermath of accidents and natural disasters
+
