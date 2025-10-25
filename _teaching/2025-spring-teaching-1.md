@@ -2,11 +2,13 @@
 title: "If you are not from Sweden"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2025-spring-teaching-1
 venue: "Gothenburg University"
 date: 2025-01-01
 location: "Gothenburg, Sweden"
 ---
+
+Tips on Swedish academia
 
 Welcome to GU! 
 ====
