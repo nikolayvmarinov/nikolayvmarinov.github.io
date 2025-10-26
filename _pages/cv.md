@@ -62,7 +62,6 @@ Book
 Funding in preparation
 ======
 * Vetenskapsrådet VR: 2025 *Do Voting Machines Reduce Election Fraud?*  
-* Riksbankens Jubileumsfond RJ: 2025 *Public Opinion on the War in Ukraine*  
 * Forskningsrådet FR: 2025 *International Politics of Mobilization (IntMob)*  
 * Vetenskapsrådet VR: 2026 *Ex-Post Knowledge and Ex-Ante Uncertainty in Elections*  
 * Östersjöstiftelsen: 2026 *Authoritarian Regimes and Bad News*  
