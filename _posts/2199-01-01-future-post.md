@@ -8,7 +8,7 @@ tags:
   - AI
 ---
 
-Another talk in the Tech Up at GU series! Please come!
+Another talk in the Tech Up at GU series! Come listen to Erica Metheney and Lauren Yehle!
 
 Using GenAI for Survey Research
 ======
