@@ -13,7 +13,7 @@ image: /images/research.png
 ## Dissertation on sanctions
 
 * I wrote my dissertation on economic sanctions:
-  * I wanted to know why political rivalry makes it hard to end economic sanctions.
+  * I wanted to know why political rivalry makes it hard to end economic sanctions
 * Since then, I have looked at:
   * whether sanctions destablize leaders
   * whether individual sanctions cause elite defections in autocratic regimes
@@ -23,8 +23,8 @@ image: /images/research.png
 
 * Sanctions are one way to influence others, and building democracy abroad is an overriding interest of Western Powers. I want to know: 
   * whether foreign pressure reverses coups,
-  * whether intervenining in other countries' elections works, 
-  * whether mass moblization no longer leads to democracy because of dwindling outside support
+  * what intervenining in other countries' elections does, 
+  * whether dwindling outside support is the reason mass moblization does not bring democracy
 
 ##  New data to study democracy
 
