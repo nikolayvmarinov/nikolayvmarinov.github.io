@@ -42,7 +42,7 @@ image: /images/research.png
 
 * Authoritarian regimes harbor many puzzles. I ask:  
   * why they spread conspiracy theories,
-  * why they sometimes stage show trials and sometimes deploy blackouts to deal with scandals
+  * why they stage show trials or deploy blackouts to deal with scandals
 
 ![Research](/images/research.png)
 
