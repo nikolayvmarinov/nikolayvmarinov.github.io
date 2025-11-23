@@ -12,9 +12,9 @@ image: /images/research.png
 
 * My dissertation on economic sanctions:
   * asked why political rivalry makes sanctions long
-* I have looked or I am looking at:
-  * whether sanctions destablize leaders,
-  * whether sanctions cause elite defections in autocracies
+* I have looked or I am looking at whether sanctions:
+  * destablize leaders,
+  * cause elite defections in autocracies
 
 
 ## Interest in how the outside world changes democracy 
