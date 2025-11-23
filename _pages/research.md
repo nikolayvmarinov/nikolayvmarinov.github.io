@@ -10,39 +10,39 @@ image: /images/research.png
 
 ## Dissertation on sanctions
 
-* I wrote my dissertation on economic sanctions:
-  * I wanted to know why political rivalry makes it hard to end economic sanctions
-* Since then, I have looked at:
-  * whether sanctions destablize leaders
-  * whether individual sanctions cause elite defections in autocratic regimes
+* My dissertation on economic sanctions:
+  * asked why political rivalry makes sanctions long
+* I have looked or I am looking at:
+  * whether sanctions destablize leaders,
+  * whether sanctions cause elite defections in autocracies
 
 
 ## Interest in how the outside world changes democracy 
 
-* Sanctions are one way to influence others, and building democracy abroad is an overriding interest of Western Powers. I want to know: 
+* Sanctions are one way to influence others, and building democracy abroad is an overriding interest of Western Powers. I have pursued or I am pursuing projects on: 
   * whether foreign pressure reverses coups,
-  * what intervenining in other countries' elections does, 
-  * whether dwindling outside support is the reason mass moblization does not bring democracy
+  * whether declining Western support is why mass moblization no longer brings democracy,
+  * what intervenining in other countries' elections does
 
 ##  New data to study democracy
 
-* To get to the role of the international community in spreading liberalization, new data collections are needed. I have spearheaded efforts to collect data on:  
-  * all elections around the world, regardless of their democratic quality,
+* To get at the role the international community plays in liberalization, new data are needed. I have spearheaded data collections on:  
+  * all elections around the world (NELDA),
   * how states intervene in elections, 
-  * how international factors affect protests 
+  * international influences on protests 
 
 ##  I come from Bulgaria
 
 * So I want to know:  
-  * what causes corruption - for example, governments stealing aid after floods,
-  * can social media help stop government theft of public resources? 
-  * how does the government steal elections? 
+  * what causes corruption (Bulgaria: number 1 in EU!),
+  * can social media help advocates organize? 
+  * how does the Bulgarians government steal elections? 
 
 ##  Authoritarians
 
-* Authoritarian regimes are fascinating. I want to know:  
+* Authoritarian regimes harbor many puzzles. I ask:  
   * why they spread conspiracy theories,
-  * why they sometimes stage show trials and sometimes deploy blackouts in the aftermath of accidents and natural disasters
+  * why they sometimes stage show trials and sometimes deploy blackouts to deal with scandals
 
 ![Research](/images/research.png)
 
