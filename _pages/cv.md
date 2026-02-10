@@ -61,11 +61,12 @@ Book
 
 Funding in preparation
 ======
-* Vetenskapsrådet VR: 2025 *Do Voting Machines Reduce Election Fraud?*  
-* Forskningsrådet FR: 2025 *International Politics of Mobilization (IntMob)*  
-* Vetenskapsrådet VR: 2026 *Ex-Post Knowledge and Ex-Ante Uncertainty in Elections*  
-* Östersjöstiftelsen: 2026 *Authoritarian Regimes and Bad News*  
-* European Research Council ERC: 2026 *Foreign Election Interference (EleWar)*  
+* Vetenskapsrådet VR: 2026 *Does Machine Voting Strengthen Electoral Integrity?*  
+* Forskningsrådet FR: 2026 *International Politics of Mobilization (IntMob)*  
+* Vetenskapsrådet VR: 2026 *Foreign Election Interventions: From Autocratic Attitudes to Democratic Resilience*  
+* ERC: 2026 *Cities and Democracy (CITIDEM)*  
+* Vetenskapsrådet VR: 2027 *Ex-Post Knowledge and Ex-Ante Uncertainty in Elections*  
+* Östersjöstiftelsen: 2027 *Authoritarian Regimes and Bad News*  
 
 Funding granted
 ======
