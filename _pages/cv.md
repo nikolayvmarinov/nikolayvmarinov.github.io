@@ -62,8 +62,7 @@ Book
 Funding in preparation
 ======
 * Vetenskapsrådet VR: 2026 *Does Machine Voting Strengthen Electoral Integrity?*  
-* Forskningsrådet FR: 2026 *International Politics of Mobilization (IntMob)*  
-* Vetenskapsrådet VR: 2026 *Foreign Election Interventions: From Autocratic Attitudes to Democratic Resilience*  
+* Vetenskapsrådet VR: 2026 *Securing Electoral Integrity Against Foreign Democracy-Eroding Election Interventions*  
 * ERC: 2026 *Cities and Democracy (CITIDEM)*  
 * Vetenskapsrådet VR: 2027 *Ex-Post Knowledge and Ex-Ante Uncertainty in Elections*  
 * Östersjöstiftelsen: 2027 *Authoritarian Regimes and Bad News*  
