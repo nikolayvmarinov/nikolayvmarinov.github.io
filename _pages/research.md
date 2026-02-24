@@ -8,35 +8,33 @@ image: /images/research.png
 {% include base_path %}
 {% include toc %}
 
-## Dissertation on sanctions
+## Sanctions
 
 * My dissertation on economic sanctions:
   * asked why political rivalry makes sanctions long
-* I have looked or I am looking at whether sanctions:
+* I have looked whether sanctions:
   * destablize leaders,
   * cause elite defections in autocracies
 
 
-## Interest in how the outside world changes democracy 
+## How the outside world changes democracy 
 
-* Sanctions are one way to influence others, and building democracy abroad is an overriding interest of Western Powers. I have pursued or I am pursuing projects on: 
+* I have looked at: 
   * whether foreign pressure reverses coups,
-  * whether declining Western support is why mass moblization no longer brings democracy,
   * what intervenining in other countries' elections does
 
-##  New data to study democracy
+##  New data
 
-* To get at the role the international community plays in liberalization, new data are needed. I have spearheaded data collections on:  
+* I have spearheaded data collections on:  
   * all elections around the world (NELDA),
-  * how states intervene in elections, 
-  * international influences on protests 
+  * how states intervene in elections
 
 ##  I come from Bulgaria
 
 * So I want to know:  
   * what causes corruption (Bulgaria: number 1 in EU!),
-  * can social media help advocates organize? 
-  * how does the Bulgarians government steal elections? 
+  * can social media help advocates for causes organize? 
+  * how does the Bulgarian government steal elections? 
 
 ##  Authoritarians
 
