@@ -34,7 +34,6 @@ image: /images/research.png
 * So I want to know:  
   * what causes corruption (Bulgaria: number 1 in EU!),
   * can social media help advocates for causes organize? 
-  * how does the Bulgarian government steal elections? 
 
 ##  Authoritarians
 
@@ -43,5 +42,15 @@ image: /images/research.png
   * why they stage show trials or deploy blackouts to deal with scandals
 
 ![Research](/images/research.png)
+
+##  Current Research
+
+* Five areas:  
+  * Machine Voting and Electoral Integrity in Bulgaria
+  * Securing Electoral Integrity Against Foreign Democracy-Eroding Election Interventions
+  * Democracy in the Bayesian Rearview Mirror: Securing Democratic Indicators Against Bias with Experiments and Text Analysis
+  * Cities and Democracy
+
+
 
 
