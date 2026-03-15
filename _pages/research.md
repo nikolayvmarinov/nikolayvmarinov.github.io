@@ -46,10 +46,12 @@ image: /images/research.png
 ##  Current Research
 
 * Areas:  
-  * Machine Voting and Electoral Integrity in Bulgaria
-  * Securing Electoral Integrity Against Foreign Democracy-Eroding Election Interventions
-  * Democracy in the Bayesian Rearview Mirror: Securing Democratic Indicators Against Bias with Experiments and Text Analysis
-  * Cities and Democracy
+* Machine Voting and Electoral Integrity in Bulgaria
+* Securing Electoral Integrity Against Foreign Election Interventions
+* Democracy in the Bayesian Rearview Mirror: Detecting and Removing Bias with Experiments and Text Analysis
+* Cities and Democracy
+* Authoritarian Regimes and Bad News 
+
 
 
 

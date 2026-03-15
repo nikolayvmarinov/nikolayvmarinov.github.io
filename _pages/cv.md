@@ -61,11 +61,7 @@ Book
 
 Funding in preparation
 ======
-* Vetenskapsrådet VR: 2026 *Does Machine Voting Strengthen Electoral Integrity?*  
-* Vetenskapsrådet VR: 2026 *Securing Electoral Integrity Against Foreign Democracy-Eroding Election Interventions*  
-* ERC: 2026 *Cities and Democracy (CITIDEM)*  
-* Vetenskapsrådet VR: 2027 *Ex-Post Knowledge and Ex-Ante Uncertainty in Elections*  
-* 2027 *Authoritarian Regimes and Bad News*  
+* See Research, Current Research 
 
 Funding granted
 ======
