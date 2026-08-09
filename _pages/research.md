@@ -8,6 +8,15 @@ image: /images/research.png
 {% include base_path %}
 {% include toc %}
 
+##  Current Research
+
+* Machine Voting and Electoral Integrity in Bulgaria
+* Securing Electoral Integrity Against Foreign Election Interventions
+* Democracy in the Bayesian Rearview Mirror: Detecting and Removing Bias with Experiments and Text Analysis
+* Cities and Democracy
+* Authoritarian Regimes and Bad News 
+
+
 ## Sanctions
 
 * My dissertation on economic sanctions:
@@ -29,11 +38,12 @@ image: /images/research.png
   * all elections around the world (NELDA),
   * how states intervene in elections
 
-##  I come from Bulgaria
-
-* So I want to know:  
+## I come from Bulgaria
+* So I want to know:
   * what causes corruption (Bulgaria: number 1 in EU!),
-  * can social media help advocates for causes organize? 
+  * can social media help advocates for causes organize?
+  * [click to download file with geo-coded voting sections in Bulgaria 8.1 Mb](/files/all_set.gpkg)
+  * [click for a map of voting sections in Bulgaria with employment levels](/files/employment_map.html)
 
 ##  Authoritarians
 
@@ -43,13 +53,6 @@ image: /images/research.png
 
 ![Research](/images/research.png)
 
-##  Current Research
-
-* Machine Voting and Electoral Integrity in Bulgaria
-* Securing Electoral Integrity Against Foreign Election Interventions
-* Democracy in the Bayesian Rearview Mirror: Detecting and Removing Bias with Experiments and Text Analysis
-* Cities and Democracy
-* Authoritarian Regimes and Bad News 
 
 
 
