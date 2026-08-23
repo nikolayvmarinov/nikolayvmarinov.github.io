@@ -31,9 +31,10 @@ Work experience
     
 Publications
 ======
-* Tsz-Ning Wong and Nikolay Marinov. 2025. “Campaign Contributions and Policy Divergence,” *Social Choice and Welfare* [https://doi.org/10.1007/s00355-025-01601-1](https://doi.org/10.1007/s00355-025-01601-1)
-* Kennedy, Ryan, Nikolay Marinov, Adam Ozer, Lydia Tiede. 2025. “Signed, Sealed, Counted? An Experimental Study of Mail-in Ballot Signature Verification,” *Political Research Quarterly* [https://doi.org/10.1177/10659129251319298](https://doi.org/10.1177/10659129251319298)
-* Johannes Bubeck, Ashrakat Elshehawy, Nikolay Marinov, Federico Nanni. 2025. “The Importance of a Liberal Power's Attention to Democratic Elections Around the World: How the US Electoral Cycle Affects Elections Globally,” *Journal of Politics* [https://doi.org/10.1086/734276](https://doi.org/10.1086/734276)
+* Tsz-Ning Wong, Juliua Grauvogel, and Nikolay Marinov. 2026. “Targeted Sanctions Against Authoritarian Elites,” *Journal of Conflict Resolution*, [https://doi.org/10.1177/0022002726143](online first)
+* Tsz-Ning Wong and Nikolay Marinov. 2025. “Campaign Contributions and Policy Divergence,” *Social Choice and Welfare* 66:223-253
+* Kennedy, Ryan, Nikolay Marinov, Adam Ozer, Lydia Tiede. 2025. “Signed, Sealed, Counted? An Experimental Study of Mail-in Ballot Signature Verification,” *Political Research Quarterly* 78:819-833 
+* Johannes Bubeck, Ashrakat Elshehawy, Nikolay Marinov, Federico Nanni. 2025. “The Importance of a Liberal Power's Attention to Democratic Elections Around the World: How the US Electoral Cycle Affects Elections Globally,” *Journal of Politics* 87: 1650-1655
 * Matthias Mader, Nikolay Marinov and Harald Schoen. 2022. “Foreign Anti-Mainstream Propaganda and Democratic Publics,” *Comparative Political Studies* 55:1732–1764
 * Elshehawy, Ashrakat, Nikolay Marinov, Federico Nanni and Jordan Tama. 2022. “SASCAT: Natural Language Processing Approach to the Study of Economic Sanctions,” *Journal of Peace Research* 60:877–885
 * Elshehawi, Ashrakat, Konstantin Gavras, Nikolay Marinov, Federico Nanni and Harald Schoen. 2022. “Illiberal Communication and Election Intervention During the Refugee Crisis in Germany,” *Perspectives on Politics* 20:860–878
