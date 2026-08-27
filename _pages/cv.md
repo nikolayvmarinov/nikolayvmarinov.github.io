@@ -31,7 +31,7 @@ Work experience
     
 Publications
 ======
-* Tsz-Ning Wong, Juliua Grauvogel, and Nikolay Marinov. 2026. “Targeted Sanctions Against Authoritarian Elites,” *Journal of Conflict Resolution*, [https://doi.org/10.1177/00220027261430751](onlinefirst)
+* Tsz-Ning Wong, Julia Grauvogel, and Nikolay Marinov. 2026. “Targeted Sanctions Against Authoritarian Elites,” *Journal of Conflict Resolution*, [doi:10.1177/00220027261430751](https://doi.org/10.1177/00220027261430751) (online first)
 * Tsz-Ning Wong and Nikolay Marinov. 2025. “Campaign Contributions and Policy Divergence,” *Social Choice and Welfare* 66:223-253
 * Kennedy, Ryan, Nikolay Marinov, Adam Ozer, Lydia Tiede. 2025. “Signed, Sealed, Counted? An Experimental Study of Mail-in Ballot Signature Verification,” *Political Research Quarterly* 78:819-833 
 * Johannes Bubeck, Ashrakat Elshehawy, Nikolay Marinov, Federico Nanni. 2025. “The Importance of a Liberal Power's Attention to Democratic Elections Around the World: How the US Electoral Cycle Affects Elections Globally,” *Journal of Politics* 87: 1650-1655
