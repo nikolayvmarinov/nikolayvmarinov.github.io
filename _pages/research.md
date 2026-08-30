@@ -8,48 +8,25 @@ image: /images/research.png
 {% include base_path %}
 {% include toc %}
 
-##  Current Research
+## Electoral integrity and democratic resilience
 
-* Machine Voting and Electoral Integrity in Bulgaria
-* Securing Electoral Integrity Against Foreign Election Interventions
-* Democracy in the Bayesian Rearview Mirror: Detecting and Removing Bias with Experiments and Text Analysis
-* Cities and Democracy
-* Authoritarian Regimes and Bad News 
-
-
-## Sanctions
-
-* My dissertation on economic sanctions:
-  * asked why political rivalry makes sanctions long
-* I have looked whether sanctions:
+* Does Machine Voting Strengthen Electoral Integrity?
+  * [click to download file with geo-coded voting sections in Bulgaria 8.1 Mb](/files/all_set.gpkg)
+  * [click for a map of voting sections in Bulgaria with employment levels](/files/employment_map.html)
+* Cities and Democracy:
   * destablize leaders,
   * cause elite defections in autocracies
 
+## Measurement, information and democracy 
 
-## How the outside world changes democracy 
+* Democracy in the Bayesian Rearview Mirror: Detecting and Removing Bias with Experiments and Text Analysis
 
-* I have looked at: 
-  * whether foreign pressure reverses coups,
-  * what intervenining in other countries' elections does
+##  Authoritarianism and international influence
 
-##  New data
-
-* I have spearheaded data collections on:  
-  * all elections around the world (NELDA),
-  * how states intervene in elections
-
-## I come from Bulgaria
-* So I want to know:
-  * what causes corruption (Bulgaria: number 1 in EU!),
-  * can social media help advocates for causes organize?
-  * [click to download file with geo-coded voting sections in Bulgaria 8.1 Mb](/files/all_set.gpkg)
-  * [click for a map of voting sections in Bulgaria with employment levels](/files/employment_map.html)
-
-##  Authoritarians
-
-* Authoritarian regimes harbor many puzzles. I ask:  
-  * why they spread conspiracy theories,
-  * why they stage show trials or deploy blackouts to deal with scandals
+* Securing Electoral Integrity Against the Threat of Foreign information manipulation and interference operations (FIMIs) 
+* In two new projects, I ask:   
+  * how authoritarian regimes manage bad news and react to disasters,
+  * how architectural features connect to authoritarianism
 
 ![Research](/images/research.png)
 
