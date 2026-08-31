@@ -13,9 +13,7 @@ image: /images/research.png
 * Does Machine Voting Strengthen Electoral Integrity?
   * [click to download file with geo-coded voting sections in Bulgaria 8.1 Mb](/files/all_set.gpkg)
   * [click for a map of voting sections in Bulgaria with employment levels](/files/employment_map.html)
-* Cities and Democracy:
-  * destablize leaders,
-  * cause elite defections in autocracies
+* Cities and Democracy
 
 ## Measurement, information and democracy 
 
