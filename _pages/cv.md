@@ -60,14 +60,13 @@ Book
 ======
 * J. Bubeck and N. Marinov. 2019. *Rules and Allies: Foreign Election Interventions* (Cambridge University Press)
 
-Funding in preparation
-======
-* See Research, Current Research 
 
-Funding granted
+External funding
 ======
-* German Science Foundation, PI: *Processes or Candidates?* 2016–19 (€289,620)  
+* Swedish Research Council *Does Machine Voting Strengthen Electoral Integrity?* with Valeriya Mechkova (PI), Monika Bauhr (SEK 4,877,000)
 * Thyssen Foundation: *Conspiracies*, with Thomas Braeuninger, 2021 (€3,000)  
+* German Science Foundation, PI: *Processes or Candidates?* 2016–19 (€289,620)  
+
 
 Awards and Distinctions
 ======
